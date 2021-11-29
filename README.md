@@ -10,7 +10,7 @@ Desenvolva uma API com a biblioteca FastAPI, com os seguintes requisitos:
 Foi utilizado um ambiente linux/debain para o desenvolvimento.
 1. Python3.9.6
 2. Aconselho criar um ambiente virtual:
-   1. ```python3.9.6 -m pip install virtualenv```
+   1. ```python3.9 -m pip install virtualenv```
    2. ```python3.9 -m virtualenv env```
    3. ```source env/bin/activate```
 3. Instalação dos requisitos:
