@@ -17,4 +17,8 @@ Foi utilizado um ambiente linux/debain para o desenvolvimento.
    ```pip install -r requirements.txt```
 
 ## Execução
-run: ```uvicorn main:app --reload```
+1. run: ```uvicorn main:app --reload```
+2. Api docs: http://127.0.0.1:8000/docs#
+3. Autenticação:
+   1. username: ``johndoe``
+   2. password: ``1a6c75e61de6b04fe76788ce0febe04781e01ce87564371739afba8877e09546``
